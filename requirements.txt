@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+streamlit==0.86.0
+PyPDF2==1.26.0
+langchain==0.2.0
+langchain-google-genai==0.2.0
