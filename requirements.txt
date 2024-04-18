@@ -5,4 +5,4 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
-
+gTTS==2.5.1
